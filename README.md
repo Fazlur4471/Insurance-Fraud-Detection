@@ -33,7 +33,7 @@ Installation & Usage
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/RijeshKrishna/Insurance-Fraud-Detection-Model
+git clone https://github.com/Fazlur4471/Insurance-Fraud-Detection
 cd your-repo
 
 2️⃣ Install Dependencies
